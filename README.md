@@ -11,8 +11,9 @@ The analysis reveals that credit card ownership is concentrated among customers 
 
 Several behavioural and financial indicators were identified as strong predictors of default risk, including spending-to-income ratio (LOGSPEND), derogatory credit history, dependency levels, and income category.
 
-Customer Demographics Insights
-Age Distribution
+## Customer Demographics Insights
+
+### Age Distribution
 
 The customer base is largely made up of younger individuals:
 
@@ -22,7 +23,7 @@ Senior customers account for the smallest proportion of cardholders.
 
 This suggests that the bank's credit products appeal more strongly to younger and economically active individuals.
 
-Income Distribution
+## Income Distribution
 
 Income analysis shows that:
 
@@ -32,7 +33,7 @@ Very-low-income customers represent the smallest cardholder segment.
 
 This indicates that income remains a major factor influencing credit card ownership.
 
-Family and Dependency Structure
+## Family and Dependency Structure
 
 Most cardholders belong to:
 
@@ -42,7 +43,7 @@ Customers with no dependents
 
 These groups collectively account for the majority of the bank's customer base.
 
-Credit Card Holder Analysis
+### Credit Card Holder Analysis
 
 The cardholder population demonstrates several notable characteristics:
 
@@ -56,24 +57,24 @@ Credit History
 
 The majority of cardholders maintain relatively clean credit histories:
 
-Minor Derogatory Records
+## Minor Derogatory Records
 
 81% have no minor derogatory records.
 Only a small proportion have frequent derogatory incidents.
 
-Major Derogatory Records
+## Major Derogatory Records
 
 Around 80% have no major derogatory records.
 Customers with high levels of major derogatory history represent a very small segment.
 
 This indicates that cardholders generally possess acceptable credit profiles.
 
-Default Risk Analysis
+## Default Risk Analysis
 Overall Default Rate
 
 The portfolio default rate stands at approximately 7.7%, meaning the vast majority of customers remain compliant with repayment obligations.
 
-Default Rate by Income Category
+**Default Rate by Income Category**
 
 Default risk is highest among:
 
@@ -82,11 +83,11 @@ Lower-middle-income customers
 
 Default risk steadily decreases as income increases.
 
-Key observation:
+## Key observation:
 
 Customers with higher income levels are significantly less likely to default compared to lower-income customers.
 
-Default Rate by Age Group
+#### Default Rate by Age Group
 
 Default rates are highest among:
 
@@ -98,7 +99,7 @@ Middle-aged customers demonstrate relatively lower default rates.
 
 This suggests both younger borrowers and retirees may face greater financial pressures.
 
-Default Rate by Dependency Category
+### Default Rate by Dependency Category
 
 Customers with:
 
@@ -107,7 +108,7 @@ No dependents
 
 show higher default rates compared to larger family groups.
 
-Default Rate by Spending Pressure (LOGSPEND)
+### Default Rate by Spending Pressure (LOGSPEND)
 
 One of the strongest findings in the analysis is the relationship between spending behaviour and default risk.
 
@@ -122,7 +123,7 @@ As spending pressure decreases, default risk declines significantly.
 
 This confirms that spending relative to income is a major indicator of future credit risk.
 
-Spending Behaviour Analysis
+### Spending Behaviour Analysis
 Spending Pressure Across Income Groups
 
 The spending-to-income ratio varies considerably across income categories:
@@ -133,7 +134,7 @@ High-income customers demonstrate lower spending pressure despite higher earning
 
 This suggests lower-income customers spend a larger proportion of their available income.
 
-Spending Behaviour by Risk Category
+### Spending Behaviour by Risk Category
 
 Customers classified as Very High Risk show:
 
@@ -148,7 +149,7 @@ Spending pressure remains significantly lower.
 
 This reinforces the relationship between spending behaviour and credit risk.
 
-Key Drivers of Default Risk
+## Key Drivers of Default Risk
 
 The Key Influencers analysis identified the strongest factors associated with default risk.
 
@@ -168,43 +169,43 @@ Lower earning customers consistently show greater vulnerability to default.
 
 Among all variables analyzed, spending pressure (LOGSPEND) emerged as the most influential predictor of default behaviour.
 
-Business Recommendations
+## Business Recommendations
 
 Based on the findings, the following actions are recommended:
 
-Strengthen Credit Risk Monitoring
+**1. Strengthen Credit Risk Monitoring**
 
-Implement proactive monitoring for customers with:
+**2.Implement proactive monitoring for customers with:**
 
-High LOGSPEND ratios
-Previous derogatory records
-Low-income profiles
-Improve Early Warning Systems
+High LOGSPEND ratios,
+Previous derogatory records,
+Low-income profiles,
+Improve Early Warning Systems.
 
-Develop predictive models that flag customers exhibiting:
+**3.Develop predictive models that flag customers exhibiting:**
 
-Rapid increases in spending
-Rising spending-to-income ratios
-Deteriorating credit histories
-Tailored Credit Limits
+Rapid increases in spending,
+Rising spending-to-income ratios,
+Deteriorating credit histories,
+Tailored Credit Limits.
 
-Assign credit limits based on:
+**4.Assign credit limits based on:**
 
-Income category
-Spending behaviour
-Historical repayment performance
-Customer Financial Education
+Income category,
+Spending behaviour,
+Historical repayment performance,
+Customer Financial Education.
 
-Provide budgeting and financial wellness programs targeted at:
+**5.Provide budgeting and financial wellness programs targeted at:**
 
-Young adults
-Low-income customers
-High-spending customers
-Risk-Based Product Strategy
+Young adults,
+Low-income customers,
+High-spending customers,
+Risk-Based Product Strategy.
 
-Offer premium products to low-risk, high-income customers while applying stricter lending criteria to higher-risk segments.
+**6.Offer premium products to low-risk, high-income customers while applying stricter lending criteria to higher-risk segments.**
 
-Conclusion
+## Conclusion
 
 The analysis shows that while the bank maintains a relatively healthy customer portfolio with a low overall default rate, default risk is heavily influenced by customer spending behaviour, income level, and credit history. High-income customers dominate the cardholder base and generally exhibit lower default risk, whereas low-income customers and those with high spending-to-income ratios are significantly more likely to default. Monitoring spending pressure, credit history, and income-related factors can help the bank reduce defaults, improve portfolio quality, and make more informed lending decisions.
 
